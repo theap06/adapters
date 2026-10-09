@@ -1,0 +1,4 @@
+# Local parity artifacts (uploaded to the HF parity-experiments dataset, not committed)
+.upstream_mlrbench/
+parity_results/
+parity_runs/
